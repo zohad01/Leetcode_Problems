@@ -4,10 +4,10 @@ using namespace std;
 bool isValid(vector<int> &arr, int n, int m, int maxAllowdPages){  //Time Complexity of overall code O(logN * n)
     int pages = 0, student = 1;
     for(int i = 0; i < n; i++){
-    if(arr[i] > maxAllowdPages){
+    if(arr[i] > maxAllowdPages){         // maxAllowedPages = mid
         return false;
     }
-    if(pages + arr[i] <= maxAllowdPages){
+    if(pages + arr[i] <= maxAllowdPages){          
         pages += arr[i];
     }else{
         student++;
