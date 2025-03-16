@@ -15,6 +15,7 @@ Input: root = [1]
 Output: [[1]]
 
 
+
 Example 3:
 
 Input: root = []
