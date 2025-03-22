@@ -3,7 +3,6 @@ Given the root of a binary tree and an integer targetSum, return true if the tre
 A leaf is a node with no children.
 
  
-
 Example 1:
 
 
