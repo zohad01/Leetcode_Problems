@@ -4,6 +4,7 @@
 #         self.val = val
 #         self.next = next
 
+
 class Solution:
     def removeNodes(self, head: Optional[ListNode]) -> Optional[ListNode]:
         stack = []
