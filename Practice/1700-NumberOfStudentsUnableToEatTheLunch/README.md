@@ -39,4 +39,4 @@ Constraints:
 1 <= students.length, sandwiches.length <= 100
 students.length == sandwiches.length
 sandwiches[i] is 0 or 1.
-students[i] is 0 or 1.
+students[i] is 0 or 1. 
