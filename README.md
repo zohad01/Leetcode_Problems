@@ -6,10 +6,12 @@ This is my leetcode journeys file which include all those problems that i solved
 ## Array
 |  |
 | ------- |
+| [0001-two-sum](https://github.com/zohad01/Leetcode_Problems/tree/master/0001-two-sum) |
 | [0217-contains-duplicate](https://github.com/zohad01/Leetcode_Problems/tree/master/0217-contains-duplicate) |
 ## Hash Table
 |  |
 | ------- |
+| [0001-two-sum](https://github.com/zohad01/Leetcode_Problems/tree/master/0001-two-sum) |
 | [0217-contains-duplicate](https://github.com/zohad01/Leetcode_Problems/tree/master/0217-contains-duplicate) |
 | [0242-valid-anagram](https://github.com/zohad01/Leetcode_Problems/tree/master/0242-valid-anagram) |
 ## Sorting
