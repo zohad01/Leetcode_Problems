@@ -50,4 +50,12 @@ This is my leetcode journeys file which include all those problems that i solved
 |  |
 | ------- |
 | [0347-top-k-frequent-elements](https://github.com/zohad01/Leetcode_Problems/tree/master/0347-top-k-frequent-elements) |
+## Math
+|  |
+| ------- |
+| [1448-maximum-69-number](https://github.com/zohad01/Leetcode_Problems/tree/master/1448-maximum-69-number) |
+## Greedy
+|  |
+| ------- |
+| [1448-maximum-69-number](https://github.com/zohad01/Leetcode_Problems/tree/master/1448-maximum-69-number) |
 <!---LeetCode Topics End-->
