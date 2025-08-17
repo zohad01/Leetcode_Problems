@@ -8,6 +8,7 @@ This is my leetcode journeys file which include all those problems that i solved
 | ------- |
 | [0001-two-sum](https://github.com/zohad01/Leetcode_Problems/tree/master/0001-two-sum) |
 | [0049-group-anagrams](https://github.com/zohad01/Leetcode_Problems/tree/master/0049-group-anagrams) |
+| [0074-search-a-2d-matrix](https://github.com/zohad01/Leetcode_Problems/tree/master/0074-search-a-2d-matrix) |
 | [0217-contains-duplicate](https://github.com/zohad01/Leetcode_Problems/tree/master/0217-contains-duplicate) |
 | [0347-top-k-frequent-elements](https://github.com/zohad01/Leetcode_Problems/tree/master/0347-top-k-frequent-elements) |
 ## Hash Table
@@ -58,4 +59,12 @@ This is my leetcode journeys file which include all those problems that i solved
 |  |
 | ------- |
 | [1448-maximum-69-number](https://github.com/zohad01/Leetcode_Problems/tree/master/1448-maximum-69-number) |
+## Binary Search
+|  |
+| ------- |
+| [0074-search-a-2d-matrix](https://github.com/zohad01/Leetcode_Problems/tree/master/0074-search-a-2d-matrix) |
+## Matrix
+|  |
+| ------- |
+| [0074-search-a-2d-matrix](https://github.com/zohad01/Leetcode_Problems/tree/master/0074-search-a-2d-matrix) |
 <!---LeetCode Topics End-->
