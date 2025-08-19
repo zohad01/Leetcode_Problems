@@ -12,6 +12,7 @@ This is my leetcode journeys file which include all those problems that i solved
 | [0074-search-a-2d-matrix](https://github.com/zohad01/Leetcode_Problems/tree/master/0074-search-a-2d-matrix) |
 | [0217-contains-duplicate](https://github.com/zohad01/Leetcode_Problems/tree/master/0217-contains-duplicate) |
 | [0347-top-k-frequent-elements](https://github.com/zohad01/Leetcode_Problems/tree/master/0347-top-k-frequent-elements) |
+| [2432-number-of-zero-filled-subarrays](https://github.com/zohad01/Leetcode_Problems/tree/master/2432-number-of-zero-filled-subarrays) |
 ## Hash Table
 |  |
 | ------- |
@@ -56,6 +57,7 @@ This is my leetcode journeys file which include all those problems that i solved
 |  |
 | ------- |
 | [1448-maximum-69-number](https://github.com/zohad01/Leetcode_Problems/tree/master/1448-maximum-69-number) |
+| [2432-number-of-zero-filled-subarrays](https://github.com/zohad01/Leetcode_Problems/tree/master/2432-number-of-zero-filled-subarrays) |
 ## Greedy
 |  |
 | ------- |
