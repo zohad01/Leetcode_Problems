@@ -69,6 +69,7 @@ This is my leetcode journeys file which include all those problems that i solved
 | ------- |
 | [0074-search-a-2d-matrix](https://github.com/zohad01/Leetcode_Problems/tree/master/0074-search-a-2d-matrix) |
 | [0162-find-peak-element](https://github.com/zohad01/Leetcode_Problems/tree/master/0162-find-peak-element) |
+| [0222-count-complete-tree-nodes](https://github.com/zohad01/Leetcode_Problems/tree/master/0222-count-complete-tree-nodes) |
 ## Matrix
 |  |
 | ------- |
@@ -82,4 +83,16 @@ This is my leetcode journeys file which include all those problems that i solved
 |  |
 | ------- |
 | [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/zohad01/Leetcode_Problems/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
+## Bit Manipulation
+|  |
+| ------- |
+| [0222-count-complete-tree-nodes](https://github.com/zohad01/Leetcode_Problems/tree/master/0222-count-complete-tree-nodes) |
+## Tree
+|  |
+| ------- |
+| [0222-count-complete-tree-nodes](https://github.com/zohad01/Leetcode_Problems/tree/master/0222-count-complete-tree-nodes) |
+## Binary Tree
+|  |
+| ------- |
+| [0222-count-complete-tree-nodes](https://github.com/zohad01/Leetcode_Problems/tree/master/0222-count-complete-tree-nodes) |
 <!---LeetCode Topics End-->
