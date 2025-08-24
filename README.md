@@ -13,6 +13,7 @@ This is my leetcode journeys file which include all those problems that i solved
 | [0162-find-peak-element](https://github.com/zohad01/Leetcode_Problems/tree/master/0162-find-peak-element) |
 | [0217-contains-duplicate](https://github.com/zohad01/Leetcode_Problems/tree/master/0217-contains-duplicate) |
 | [0347-top-k-frequent-elements](https://github.com/zohad01/Leetcode_Problems/tree/master/0347-top-k-frequent-elements) |
+| [1586-longest-subarray-of-1s-after-deleting-one-element](https://github.com/zohad01/Leetcode_Problems/tree/master/1586-longest-subarray-of-1s-after-deleting-one-element) |
 | [2432-number-of-zero-filled-subarrays](https://github.com/zohad01/Leetcode_Problems/tree/master/2432-number-of-zero-filled-subarrays) |
 ## Hash Table
 |  |
@@ -95,4 +96,12 @@ This is my leetcode journeys file which include all those problems that i solved
 |  |
 | ------- |
 | [0222-count-complete-tree-nodes](https://github.com/zohad01/Leetcode_Problems/tree/master/0222-count-complete-tree-nodes) |
+## Dynamic Programming
+|  |
+| ------- |
+| [1586-longest-subarray-of-1s-after-deleting-one-element](https://github.com/zohad01/Leetcode_Problems/tree/master/1586-longest-subarray-of-1s-after-deleting-one-element) |
+## Sliding Window
+|  |
+| ------- |
+| [1586-longest-subarray-of-1s-after-deleting-one-element](https://github.com/zohad01/Leetcode_Problems/tree/master/1586-longest-subarray-of-1s-after-deleting-one-element) |
 <!---LeetCode Topics End-->
