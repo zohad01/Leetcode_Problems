@@ -91,10 +91,12 @@ This is my leetcode journeys file which include all those problems that i solved
 ## Tree
 |  |
 | ------- |
+| [0144-binary-tree-preorder-traversal](https://github.com/zohad01/Leetcode_Problems/tree/master/0144-binary-tree-preorder-traversal) |
 | [0222-count-complete-tree-nodes](https://github.com/zohad01/Leetcode_Problems/tree/master/0222-count-complete-tree-nodes) |
 ## Binary Tree
 |  |
 | ------- |
+| [0144-binary-tree-preorder-traversal](https://github.com/zohad01/Leetcode_Problems/tree/master/0144-binary-tree-preorder-traversal) |
 | [0222-count-complete-tree-nodes](https://github.com/zohad01/Leetcode_Problems/tree/master/0222-count-complete-tree-nodes) |
 ## Dynamic Programming
 |  |
@@ -104,4 +106,12 @@ This is my leetcode journeys file which include all those problems that i solved
 |  |
 | ------- |
 | [1586-longest-subarray-of-1s-after-deleting-one-element](https://github.com/zohad01/Leetcode_Problems/tree/master/1586-longest-subarray-of-1s-after-deleting-one-element) |
+## Stack
+|  |
+| ------- |
+| [0144-binary-tree-preorder-traversal](https://github.com/zohad01/Leetcode_Problems/tree/master/0144-binary-tree-preorder-traversal) |
+## Depth-First Search
+|  |
+| ------- |
+| [0144-binary-tree-preorder-traversal](https://github.com/zohad01/Leetcode_Problems/tree/master/0144-binary-tree-preorder-traversal) |
 <!---LeetCode Topics End-->
