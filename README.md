@@ -15,6 +15,7 @@ This is my leetcode journeys file which include all those problems that i solved
 | [0347-top-k-frequent-elements](https://github.com/zohad01/Leetcode_Problems/tree/master/0347-top-k-frequent-elements) |
 | [1586-longest-subarray-of-1s-after-deleting-one-element](https://github.com/zohad01/Leetcode_Problems/tree/master/1586-longest-subarray-of-1s-after-deleting-one-element) |
 | [2432-number-of-zero-filled-subarrays](https://github.com/zohad01/Leetcode_Problems/tree/master/2432-number-of-zero-filled-subarrays) |
+| [3251-maximum-area-of-longest-diagonal-rectangle](https://github.com/zohad01/Leetcode_Problems/tree/master/3251-maximum-area-of-longest-diagonal-rectangle) |
 ## Hash Table
 |  |
 | ------- |
