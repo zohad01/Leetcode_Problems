@@ -66,6 +66,7 @@ This is my leetcode journeys file which include all those problems that i solved
 | ------- |
 | [1448-maximum-69-number](https://github.com/zohad01/Leetcode_Problems/tree/master/1448-maximum-69-number) |
 | [2432-number-of-zero-filled-subarrays](https://github.com/zohad01/Leetcode_Problems/tree/master/2432-number-of-zero-filled-subarrays) |
+| [3279-alice-and-bob-playing-flower-game](https://github.com/zohad01/Leetcode_Problems/tree/master/3279-alice-and-bob-playing-flower-game) |
 ## Greedy
 |  |
 | ------- |
