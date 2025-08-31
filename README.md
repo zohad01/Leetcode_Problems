@@ -66,6 +66,7 @@ This is my leetcode journeys file which include all those problems that i solved
 ## Math
 |  |
 | ------- |
+| [0441-arranging-coins](https://github.com/zohad01/Leetcode_Problems/tree/master/0441-arranging-coins) |
 | [1448-maximum-69-number](https://github.com/zohad01/Leetcode_Problems/tree/master/1448-maximum-69-number) |
 | [2432-number-of-zero-filled-subarrays](https://github.com/zohad01/Leetcode_Problems/tree/master/2432-number-of-zero-filled-subarrays) |
 | [3279-alice-and-bob-playing-flower-game](https://github.com/zohad01/Leetcode_Problems/tree/master/3279-alice-and-bob-playing-flower-game) |
@@ -79,6 +80,7 @@ This is my leetcode journeys file which include all those problems that i solved
 | [0074-search-a-2d-matrix](https://github.com/zohad01/Leetcode_Problems/tree/master/0074-search-a-2d-matrix) |
 | [0162-find-peak-element](https://github.com/zohad01/Leetcode_Problems/tree/master/0162-find-peak-element) |
 | [0222-count-complete-tree-nodes](https://github.com/zohad01/Leetcode_Problems/tree/master/0222-count-complete-tree-nodes) |
+| [0441-arranging-coins](https://github.com/zohad01/Leetcode_Problems/tree/master/0441-arranging-coins) |
 ## Matrix
 |  |
 | ------- |
