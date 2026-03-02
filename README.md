@@ -8,6 +8,7 @@ This is my leetcode journeys file which include all those problems that i solved
 |  |
 | ------- |
 | [0001-two-sum](https://github.com/zohad01/Leetcode_Problems/tree/master/0001-two-sum) |
+| [0011-container-with-most-water](https://github.com/zohad01/Leetcode_Problems/tree/master/0011-container-with-most-water) |
 | [0027-remove-element](https://github.com/zohad01/Leetcode_Problems/tree/master/0027-remove-element) |
 | [0049-group-anagrams](https://github.com/zohad01/Leetcode_Problems/tree/master/0049-group-anagrams) |
 | [0053-maximum-subarray](https://github.com/zohad01/Leetcode_Problems/tree/master/0053-maximum-subarray) |
@@ -78,6 +79,7 @@ This is my leetcode journeys file which include all those problems that i solved
 ## Greedy
 |  |
 | ------- |
+| [0011-container-with-most-water](https://github.com/zohad01/Leetcode_Problems/tree/master/0011-container-with-most-water) |
 | [1448-maximum-69-number](https://github.com/zohad01/Leetcode_Problems/tree/master/1448-maximum-69-number) |
 ## Binary Search
 |  |
@@ -93,6 +95,7 @@ This is my leetcode journeys file which include all those problems that i solved
 ## Two Pointers
 |  |
 | ------- |
+| [0011-container-with-most-water](https://github.com/zohad01/Leetcode_Problems/tree/master/0011-container-with-most-water) |
 | [0027-remove-element](https://github.com/zohad01/Leetcode_Problems/tree/master/0027-remove-element) |
 | [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/zohad01/Leetcode_Problems/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
 ## String Matching
