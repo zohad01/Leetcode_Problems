@@ -48,6 +48,7 @@ This is my leetcode journeys file which include all those problems that i solved
 | ------- |
 | [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/zohad01/Leetcode_Problems/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
 | [0049-group-anagrams](https://github.com/zohad01/Leetcode_Problems/tree/master/0049-group-anagrams) |
+| [0125-valid-palindrome](https://github.com/zohad01/Leetcode_Problems/tree/master/0125-valid-palindrome) |
 | [0242-valid-anagram](https://github.com/zohad01/Leetcode_Problems/tree/master/0242-valid-anagram) |
 ## Divide and Conquer
 |  |
@@ -100,6 +101,7 @@ This is my leetcode journeys file which include all those problems that i solved
 | [0011-container-with-most-water](https://github.com/zohad01/Leetcode_Problems/tree/master/0011-container-with-most-water) |
 | [0027-remove-element](https://github.com/zohad01/Leetcode_Problems/tree/master/0027-remove-element) |
 | [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/zohad01/Leetcode_Problems/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
+| [0125-valid-palindrome](https://github.com/zohad01/Leetcode_Problems/tree/master/0125-valid-palindrome) |
 ## String Matching
 |  |
 | ------- |
