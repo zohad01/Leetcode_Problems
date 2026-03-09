@@ -34,6 +34,7 @@ This is my leetcode journeys file which include all those problems that i solved
 | [0347-top-k-frequent-elements](https://github.com/zohad01/Leetcode_Problems/tree/master/0347-top-k-frequent-elements) |
 | [0448-find-all-numbers-disappeared-in-an-array](https://github.com/zohad01/Leetcode_Problems/tree/master/0448-find-all-numbers-disappeared-in-an-array) |
 | [0496-next-greater-element-i](https://github.com/zohad01/Leetcode_Problems/tree/master/0496-next-greater-element-i) |
+| [0567-permutation-in-string](https://github.com/zohad01/Leetcode_Problems/tree/master/0567-permutation-in-string) |
 | [1482-how-many-numbers-are-smaller-than-the-current-number](https://github.com/zohad01/Leetcode_Problems/tree/master/1482-how-many-numbers-are-smaller-than-the-current-number) |
 ## Sorting
 |  |
@@ -50,6 +51,7 @@ This is my leetcode journeys file which include all those problems that i solved
 | [0049-group-anagrams](https://github.com/zohad01/Leetcode_Problems/tree/master/0049-group-anagrams) |
 | [0125-valid-palindrome](https://github.com/zohad01/Leetcode_Problems/tree/master/0125-valid-palindrome) |
 | [0242-valid-anagram](https://github.com/zohad01/Leetcode_Problems/tree/master/0242-valid-anagram) |
+| [0567-permutation-in-string](https://github.com/zohad01/Leetcode_Problems/tree/master/0567-permutation-in-string) |
 ## Divide and Conquer
 |  |
 | ------- |
@@ -102,6 +104,7 @@ This is my leetcode journeys file which include all those problems that i solved
 | [0027-remove-element](https://github.com/zohad01/Leetcode_Problems/tree/master/0027-remove-element) |
 | [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/zohad01/Leetcode_Problems/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
 | [0125-valid-palindrome](https://github.com/zohad01/Leetcode_Problems/tree/master/0125-valid-palindrome) |
+| [0567-permutation-in-string](https://github.com/zohad01/Leetcode_Problems/tree/master/0567-permutation-in-string) |
 ## String Matching
 |  |
 | ------- |
@@ -128,6 +131,7 @@ This is my leetcode journeys file which include all those problems that i solved
 ## Sliding Window
 |  |
 | ------- |
+| [0567-permutation-in-string](https://github.com/zohad01/Leetcode_Problems/tree/master/0567-permutation-in-string) |
 | [1586-longest-subarray-of-1s-after-deleting-one-element](https://github.com/zohad01/Leetcode_Problems/tree/master/1586-longest-subarray-of-1s-after-deleting-one-element) |
 ## Stack
 |  |
