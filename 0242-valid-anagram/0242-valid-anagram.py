@@ -1,18 +1,13 @@
 class Solution:
     def isAnagram(self, s: str, t: str) -> bool:
-        # retrun sorted(s) == sorted(t)
         if len(s) != len(t):
             return False
-        count = {}
+        frequency = [0] * 26
         for i in s:
-            if i in count:
-                count[i] += 1
-            else:
-                count[i] = 1
+            frequency[ord(i) - ord('a')] += 1
         for i in t:
-            if i not in count:
-                return False
-            count[i] -= 1
-            if count[i] < 0:
+            frequency[ord(i) - ord('a')] -= 1
+        for i in frequency:
+            if i != 0:
                 return False
         return True
