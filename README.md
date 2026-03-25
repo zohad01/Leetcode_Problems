@@ -78,6 +78,7 @@ This is my leetcode journeys file which include all those problems that i solved
 |  |
 | ------- |
 | [0441-arranging-coins](https://github.com/zohad01/Leetcode_Problems/tree/master/0441-arranging-coins) |
+| [0509-fibonacci-number](https://github.com/zohad01/Leetcode_Problems/tree/master/0509-fibonacci-number) |
 | [1448-maximum-69-number](https://github.com/zohad01/Leetcode_Problems/tree/master/1448-maximum-69-number) |
 | [2432-number-of-zero-filled-subarrays](https://github.com/zohad01/Leetcode_Problems/tree/master/2432-number-of-zero-filled-subarrays) |
 | [3279-alice-and-bob-playing-flower-game](https://github.com/zohad01/Leetcode_Problems/tree/master/3279-alice-and-bob-playing-flower-game) |
@@ -129,6 +130,7 @@ This is my leetcode journeys file which include all those problems that i solved
 |  |
 | ------- |
 | [0053-maximum-subarray](https://github.com/zohad01/Leetcode_Problems/tree/master/0053-maximum-subarray) |
+| [0509-fibonacci-number](https://github.com/zohad01/Leetcode_Problems/tree/master/0509-fibonacci-number) |
 | [1586-longest-subarray-of-1s-after-deleting-one-element](https://github.com/zohad01/Leetcode_Problems/tree/master/1586-longest-subarray-of-1s-after-deleting-one-element) |
 ## Sliding Window
 |  |
@@ -156,4 +158,12 @@ This is my leetcode journeys file which include all those problems that i solved
 |  |
 | ------- |
 | [1480-running-sum-of-1d-array](https://github.com/zohad01/Leetcode_Problems/tree/master/1480-running-sum-of-1d-array) |
+## Recursion
+|  |
+| ------- |
+| [0509-fibonacci-number](https://github.com/zohad01/Leetcode_Problems/tree/master/0509-fibonacci-number) |
+## Memoization
+|  |
+| ------- |
+| [0509-fibonacci-number](https://github.com/zohad01/Leetcode_Problems/tree/master/0509-fibonacci-number) |
 <!---LeetCode Topics End-->
