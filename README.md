@@ -14,6 +14,7 @@ This is my leetcode journeys file which include all those problems that i solved
 | [0049-group-anagrams](https://github.com/zohad01/Leetcode_Problems/tree/master/0049-group-anagrams) |
 | [0053-maximum-subarray](https://github.com/zohad01/Leetcode_Problems/tree/master/0053-maximum-subarray) |
 | [0074-search-a-2d-matrix](https://github.com/zohad01/Leetcode_Problems/tree/master/0074-search-a-2d-matrix) |
+| [0078-subsets](https://github.com/zohad01/Leetcode_Problems/tree/master/0078-subsets) |
 | [0162-find-peak-element](https://github.com/zohad01/Leetcode_Problems/tree/master/0162-find-peak-element) |
 | [0217-contains-duplicate](https://github.com/zohad01/Leetcode_Problems/tree/master/0217-contains-duplicate) |
 | [0347-top-k-frequent-elements](https://github.com/zohad01/Leetcode_Problems/tree/master/0347-top-k-frequent-elements) |
@@ -115,6 +116,7 @@ This is my leetcode journeys file which include all those problems that i solved
 ## Bit Manipulation
 |  |
 | ------- |
+| [0078-subsets](https://github.com/zohad01/Leetcode_Problems/tree/master/0078-subsets) |
 | [0222-count-complete-tree-nodes](https://github.com/zohad01/Leetcode_Problems/tree/master/0222-count-complete-tree-nodes) |
 ## Tree
 |  |
@@ -166,4 +168,8 @@ This is my leetcode journeys file which include all those problems that i solved
 |  |
 | ------- |
 | [0509-fibonacci-number](https://github.com/zohad01/Leetcode_Problems/tree/master/0509-fibonacci-number) |
+## Backtracking
+|  |
+| ------- |
+| [0078-subsets](https://github.com/zohad01/Leetcode_Problems/tree/master/0078-subsets) |
 <!---LeetCode Topics End-->
