@@ -48,6 +48,7 @@ This is my leetcode journeys file which include all those problems that i solved
 ## String
 |  |
 | ------- |
+| [0020-valid-parentheses](https://github.com/zohad01/Leetcode_Problems/tree/master/0020-valid-parentheses) |
 | [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/zohad01/Leetcode_Problems/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
 | [0049-group-anagrams](https://github.com/zohad01/Leetcode_Problems/tree/master/0049-group-anagrams) |
 | [0125-valid-palindrome](https://github.com/zohad01/Leetcode_Problems/tree/master/0125-valid-palindrome) |
@@ -142,6 +143,7 @@ This is my leetcode journeys file which include all those problems that i solved
 ## Stack
 |  |
 | ------- |
+| [0020-valid-parentheses](https://github.com/zohad01/Leetcode_Problems/tree/master/0020-valid-parentheses) |
 | [0144-binary-tree-preorder-traversal](https://github.com/zohad01/Leetcode_Problems/tree/master/0144-binary-tree-preorder-traversal) |
 | [0496-next-greater-element-i](https://github.com/zohad01/Leetcode_Problems/tree/master/0496-next-greater-element-i) |
 ## Depth-First Search
