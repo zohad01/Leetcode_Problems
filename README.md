@@ -146,6 +146,7 @@ This is my leetcode journeys file which include all those problems that i solved
 | [0020-valid-parentheses](https://github.com/zohad01/Leetcode_Problems/tree/master/0020-valid-parentheses) |
 | [0144-binary-tree-preorder-traversal](https://github.com/zohad01/Leetcode_Problems/tree/master/0144-binary-tree-preorder-traversal) |
 | [0155-min-stack](https://github.com/zohad01/Leetcode_Problems/tree/master/0155-min-stack) |
+| [0232-implement-queue-using-stacks](https://github.com/zohad01/Leetcode_Problems/tree/master/0232-implement-queue-using-stacks) |
 | [0496-next-greater-element-i](https://github.com/zohad01/Leetcode_Problems/tree/master/0496-next-greater-element-i) |
 ## Depth-First Search
 |  |
@@ -179,4 +180,9 @@ This is my leetcode journeys file which include all those problems that i solved
 |  |
 | ------- |
 | [0155-min-stack](https://github.com/zohad01/Leetcode_Problems/tree/master/0155-min-stack) |
+| [0232-implement-queue-using-stacks](https://github.com/zohad01/Leetcode_Problems/tree/master/0232-implement-queue-using-stacks) |
+## Queue
+|  |
+| ------- |
+| [0232-implement-queue-using-stacks](https://github.com/zohad01/Leetcode_Problems/tree/master/0232-implement-queue-using-stacks) |
 <!---LeetCode Topics End-->
