@@ -20,6 +20,7 @@ This is my leetcode journeys file which include all those problems that i solved
 | [0347-top-k-frequent-elements](https://github.com/zohad01/Leetcode_Problems/tree/master/0347-top-k-frequent-elements) |
 | [0448-find-all-numbers-disappeared-in-an-array](https://github.com/zohad01/Leetcode_Problems/tree/master/0448-find-all-numbers-disappeared-in-an-array) |
 | [0496-next-greater-element-i](https://github.com/zohad01/Leetcode_Problems/tree/master/0496-next-greater-element-i) |
+| [0739-daily-temperatures](https://github.com/zohad01/Leetcode_Problems/tree/master/0739-daily-temperatures) |
 | [1480-running-sum-of-1d-array](https://github.com/zohad01/Leetcode_Problems/tree/master/1480-running-sum-of-1d-array) |
 | [1482-how-many-numbers-are-smaller-than-the-current-number](https://github.com/zohad01/Leetcode_Problems/tree/master/1482-how-many-numbers-are-smaller-than-the-current-number) |
 | [1586-longest-subarray-of-1s-after-deleting-one-element](https://github.com/zohad01/Leetcode_Problems/tree/master/1586-longest-subarray-of-1s-after-deleting-one-element) |
@@ -148,6 +149,7 @@ This is my leetcode journeys file which include all those problems that i solved
 | [0155-min-stack](https://github.com/zohad01/Leetcode_Problems/tree/master/0155-min-stack) |
 | [0232-implement-queue-using-stacks](https://github.com/zohad01/Leetcode_Problems/tree/master/0232-implement-queue-using-stacks) |
 | [0496-next-greater-element-i](https://github.com/zohad01/Leetcode_Problems/tree/master/0496-next-greater-element-i) |
+| [0739-daily-temperatures](https://github.com/zohad01/Leetcode_Problems/tree/master/0739-daily-temperatures) |
 ## Depth-First Search
 |  |
 | ------- |
@@ -156,6 +158,7 @@ This is my leetcode journeys file which include all those problems that i solved
 |  |
 | ------- |
 | [0496-next-greater-element-i](https://github.com/zohad01/Leetcode_Problems/tree/master/0496-next-greater-element-i) |
+| [0739-daily-temperatures](https://github.com/zohad01/Leetcode_Problems/tree/master/0739-daily-temperatures) |
 ## Counting Sort
 |  |
 | ------- |
