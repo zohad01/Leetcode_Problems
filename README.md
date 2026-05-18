@@ -34,6 +34,7 @@ This is my leetcode journeys file which include all those problems that i solved
 | [0217-contains-duplicate](https://github.com/zohad01/Leetcode_Problems/tree/master/0217-contains-duplicate) |
 | [0242-valid-anagram](https://github.com/zohad01/Leetcode_Problems/tree/master/0242-valid-anagram) |
 | [0347-top-k-frequent-elements](https://github.com/zohad01/Leetcode_Problems/tree/master/0347-top-k-frequent-elements) |
+| [0387-first-unique-character-in-a-string](https://github.com/zohad01/Leetcode_Problems/tree/master/0387-first-unique-character-in-a-string) |
 | [0448-find-all-numbers-disappeared-in-an-array](https://github.com/zohad01/Leetcode_Problems/tree/master/0448-find-all-numbers-disappeared-in-an-array) |
 | [0496-next-greater-element-i](https://github.com/zohad01/Leetcode_Problems/tree/master/0496-next-greater-element-i) |
 | [0567-permutation-in-string](https://github.com/zohad01/Leetcode_Problems/tree/master/0567-permutation-in-string) |
@@ -55,6 +56,7 @@ This is my leetcode journeys file which include all those problems that i solved
 | [0125-valid-palindrome](https://github.com/zohad01/Leetcode_Problems/tree/master/0125-valid-palindrome) |
 | [0151-reverse-words-in-a-string](https://github.com/zohad01/Leetcode_Problems/tree/master/0151-reverse-words-in-a-string) |
 | [0242-valid-anagram](https://github.com/zohad01/Leetcode_Problems/tree/master/0242-valid-anagram) |
+| [0387-first-unique-character-in-a-string](https://github.com/zohad01/Leetcode_Problems/tree/master/0387-first-unique-character-in-a-string) |
 | [0567-permutation-in-string](https://github.com/zohad01/Leetcode_Problems/tree/master/0567-permutation-in-string) |
 ## Divide and Conquer
 |  |
@@ -73,6 +75,7 @@ This is my leetcode journeys file which include all those problems that i solved
 |  |
 | ------- |
 | [0347-top-k-frequent-elements](https://github.com/zohad01/Leetcode_Problems/tree/master/0347-top-k-frequent-elements) |
+| [0387-first-unique-character-in-a-string](https://github.com/zohad01/Leetcode_Problems/tree/master/0387-first-unique-character-in-a-string) |
 ## Quickselect
 |  |
 | ------- |
@@ -189,6 +192,7 @@ This is my leetcode journeys file which include all those problems that i solved
 |  |
 | ------- |
 | [0232-implement-queue-using-stacks](https://github.com/zohad01/Leetcode_Problems/tree/master/0232-implement-queue-using-stacks) |
+| [0387-first-unique-character-in-a-string](https://github.com/zohad01/Leetcode_Problems/tree/master/0387-first-unique-character-in-a-string) |
 | [0933-number-of-recent-calls](https://github.com/zohad01/Leetcode_Problems/tree/master/0933-number-of-recent-calls) |
 ## Data Stream
 |  |
